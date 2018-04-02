@@ -1,19 +1,30 @@
 {
-    "name": "cordova-plugin-browsertab",
-    "version": "0.2.1",
-    "description": "In-app browser tabs for Android and iOS",
-    "cordova": {
-        "id": "cordova-plugin-browsertab",
-        "platforms": [
-            "android"
-        ]
-    },
-    "keywords": [
-        "sfsafariviewcontroller",
-        "custom-tabs",
-        "browser-tabs",
-        "browser"
-    ],
-    "author": "Google, Inc.",
-    "license": "Apache-2.0"
+  "name": "@missmonacoin/cordova-plugin-browsertab-monya",
+  "version": "0.2.2",
+  "description": "In-app browser tabs for Android and iOS",
+  "cordova": {
+    "id": "cordova-plugin-browsertab",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "sfsafariviewcontroller",
+    "custom-tabs",
+    "browser-tabs",
+    "browser"
+  ],
+  "author": "MissMonacoin",
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monya-wallet/cordova-plugin-browsertab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monya-wallet/cordova-plugin-browsertab/issues"
+  },
+  "homepage": "https://github.com/monya-wallet/cordova-plugin-browsertab#readme"
 }
