@@ -1,6 +1,6 @@
 {
   "name": "@missmonacoin/cordova-plugin-browsertab-monya",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "In-app browser tabs for Android and iOS",
   "cordova": {
     "id": "cordova-plugin-browsertab",
